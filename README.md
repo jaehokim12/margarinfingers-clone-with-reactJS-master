@@ -3,7 +3,7 @@
 + https://admiring-mestorf-22a583.netlify.app/
 + https://github.com/jaehokim12/margarinfingers-clone-with-reactJS-master
 
-#사용된 기술
+# 사용된 기술
 +React js
 +typescript
 +bootstrap
