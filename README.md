@@ -3,7 +3,7 @@
 + https://admiring-mestorf-22a583.netlify.app/
 + https://github.com/jaehokim12/margarinfingers-clone-with-reactJS-master
 
-# 사용된 기술
+## 사용된 기술
 + React js
 + typescript
 + bootstrap
@@ -11,6 +11,8 @@
 
 #  1. react-bootstrap carousel 적용(Gif파일)
 ![magarin(1)](https://user-images.githubusercontent.com/62605981/123534556-01f7a480-d759-11eb-8612-ad5348d77793.gif)
+
+
 
 
 # 2. 각 상품에 Detail 이미지 적용(Gif파일)
