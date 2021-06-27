@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/62605981/123535135-0625c100-d75d-11eb-94b1-19a601bf8850.gif)
+
 # Magarinfingers Fronted
 
 ## 구현 내용 및 컨셉
