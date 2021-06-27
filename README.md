@@ -1,5 +1,8 @@
 # Magarinfingers Fronted
 
+## 구현 내용 및 컨셉
+쇼핑몰 페이지를 클론코딩했습니다.
+
 + https://admiring-mestorf-22a583.netlify.app/
 + https://github.com/jaehokim12/margarinfingers-clone-with-reactJS-master
 
